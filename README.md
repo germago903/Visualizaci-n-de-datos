@@ -1,4 +1,4 @@
-# Visualizacion-de-datos
+# Visualización de datos
 ## Panorama productivo agricola de  Colombia entre 2007 y 2013
 
 La base de datos seleccionada, “Evaluaciones Agropecuarias Municipales EVA”, constituye una herramienta clave para comprender las dinámicas agrícolas de Colombia durante más de una década. 
